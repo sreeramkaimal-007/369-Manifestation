@@ -1,0 +1,6 @@
+{
+  "name": "Affirmation 369",
+  "description": "369 affirmation manifestation tracker to speak affirmations 3 times morning, 6 times afternoon, and 9 times evening with custom timed reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
